@@ -6,3 +6,11 @@ h1 {
   font-family: verdana;
   font-size: 300%;
 }
+
+.top, .mid, .bot{
+    display: flex;
+    height: 30vh;
+    width:100vw;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+}
